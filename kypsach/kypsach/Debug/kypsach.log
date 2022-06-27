@@ -1,0 +1,7 @@
+﻿  kypsach.cpp
+C:\Users\hp\source\repos\kypsach\kypsach\laba_2.h(21,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hp\source\repos\kypsach\kypsach\laba_2.h(178,23): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\hp\source\repos\kypsach\kypsach\laba_2.h(171,11): warning C4101: p: неиспользованная локальная переменная
+C:\Users\hp\source\repos\kypsach\kypsach\laba_2.h(528,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\hp\source\repos\kypsach\kypsach\lab_1.h(258,74): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  kypsach.vcxproj -> C:\Users\hp\source\repos\kypsach\Debug\kypsach.exe
